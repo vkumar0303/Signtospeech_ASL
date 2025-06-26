@@ -122,12 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ASL Dataset Contributors](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 - All open-source libraries and tools used in this project
 
-## 📬 Contact
-
-Project Creator: Mukunj - [GitHub Profile](https://github.com/Mukunj-21)
-
-Project Link: [https://github.com/Mukunj-21/SignSpeak](https://github.com/Mukunj-21/SignSpeak)
-
----
 
 <p align="center">Made with ❤️ for the deaf and hard-of-hearing community</p>
